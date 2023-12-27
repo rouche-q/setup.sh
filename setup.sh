@@ -37,6 +37,9 @@ case $os in
 	echo "--Install Homebrew--"
 	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+	echo "--Install Iterm2--"
+	brew install --cask iterm2
+
 	echo "--Install Neovim, Ripgrep Go and Node--"
 	brew install neovim ripgrep go node
 	;;

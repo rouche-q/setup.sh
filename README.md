@@ -12,6 +12,7 @@ Currently support:
 - [oh-my-zsh](https://ohmyz.sh/)
 - [starship](https://starship.rs/)
 - [homebrew (only MacOS)](https://brew.sh/)
+- [iterm2 (only MacOS)](https://iterm2.com/)
 - [neovim](https://neovim.io/)
 - [lazyvim](https://www.lazyvim.org/)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
