@@ -43,6 +43,9 @@ case $os in
 	echo "--Install Neovim, Ripgrep Go and Node--"
 	brew install neovim ripgrep go node
 	;;
+*)
+	echo "Invalid choice, choose a supported OS please."
+	;;
 esac
 
 echo "--Install Ohmyzsh--"
